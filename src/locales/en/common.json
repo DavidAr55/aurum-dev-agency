@@ -1,45 +1,77 @@
 {
-  "nav": {
-    "home": "Home",
-    "about": "About",
-    "contact": "Contact"
-  },
-  "logo": {
-    "title": "Aurum",
-    "subtitle": "Dev Agency"
-  },
-  "hero": {
-    "available": "Available for new projects",
-    "heading_line1": "Landing Page",
-    "heading_line2": "Wireframe",
-    "heading_line3": "Website",
-    "subtext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-  },
-  "buttons": {
-    "get_started": "Get Started",
-    "portfolio": "Our Portfolio",
-    "contact": "Contact Us",
-    "start_project": "Start a Project →"
-  },
-  "ourWorks": {
-    "title": "Our Works",
-    "subtitle": "Numbers that speak for themselves"
-  },
-  "services": {
-    "what_we_do": "What we do",
-    "heading": "Services we're offering to our consumers",
-    "webdev": "Web Development",
-    "uidesign": "UI/UX Design",
-    "marketing": "Digital Marketing"
-  },
-  "about": {
-    "who_we_are": "Who we are",
-    "about_title": "About Aurum",
-    "mission_title": "Our Mission",
-    "mission_text_1": "We build digital products that matter",
-    "mission_text_2": "Our imaginary team focuses on innovative web solutions that exceed clients' expectations."
-  },
-  "footer": {
-    "copyright": "© {{year}} Aurum Dev Agency"
-  }
+    "blog": {
+        "title": "Blog",
+        "subtitle": "Insights, tips and news",
+        "read_more": "Read more"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Write us and we'll get back to you",
+        "name": "Your name",
+        "email": "Your email",
+        "message": "Your message",
+        "send": "Send message",
+        "thanks": "Thanks! We'll reply soon."
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "Selected projects",
+        "view": "View project"
+    },
+    "quote": {
+        "title": "Request a Quote",
+        "subtitle": "Tell us about your project and we'll estimate",
+        "name": "Name",
+        "email": "Email",
+        "service": "Service required",
+        "budget": "Estimated budget",
+        "send": "Request quote",
+        "thanks": "Thanks! We'll contact you soon."
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "blog": "Blog",
+        "portfolio": "Portfolio",
+        "quote": "Get a Quote"
+    },
+    "logo": {
+        "title": "Aurum",
+        "subtitle": "Dev Agency"
+    },
+    "hero": {
+        "available": "Available for new projects",
+        "heading_line1": "Landing Page",
+        "heading_line2": "Wireframe",
+        "heading_line3": "Website",
+        "subtext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "buttons": {
+        "get_started": "Get Started",
+        "portfolio": "Our Portfolio",
+        "contact": "Contact Us",
+        "start_project": "Start a Project →"
+    },
+    "ourWorks": {
+        "title": "Our Works",
+        "subtitle": "Numbers that speak for themselves"
+    },
+    "services": {
+        "what_we_do": "What we do",
+        "heading": "Services we're offering to our consumers",
+        "webdev": "Web Development",
+        "uidesign": "UI/UX Design",
+        "marketing": "Digital Marketing"
+    },
+    "about": {
+        "who_we_are": "Who we are",
+        "about_title": "About Aurum",
+        "mission_title": "Our Mission",
+        "mission_text_1": "We build digital products that matter",
+        "mission_text_2": "Our imaginary team focuses on innovative web solutions that exceed clients' expectations."
+    },
+    "footer": {
+        "copyright": "© {{year}} Aurum Dev Agency"
+    }
 }

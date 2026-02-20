@@ -28,15 +28,20 @@ export default {
           '0%, 100%': { transform: 'translateY(0px)' },
           '50%': { transform: 'translateY(-12px)' },
         },
-        'counter': {
-          from: { opacity: '0', transform: 'scale(0.5)' },
-          to: { opacity: '1', transform: 'scale(1)' },
+        'marquee-left': {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-33.333%)' },
+        },
+        'marquee-right': {
+          '0%': { transform: 'translateX(-33.333%)' },
+          '100%': { transform: 'translateX(0)' },
         },
       },
       animation: {
         'fade-up': 'fade-up 0.7s ease forwards',
         'float': 'float 4s ease-in-out infinite',
-        'counter': 'counter 0.5s ease forwards',
+        'marquee-left': 'marquee-left 28s linear infinite',
+        'marquee-right': 'marquee-right 28s linear infinite',
       },
     },
   },
