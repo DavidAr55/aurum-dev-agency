@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "logo": {
+    "title": "Aurum",
+    "subtitle": "Dev Agency"
+  },
+  "hero": {
+    "available": "Available for new projects",
+    "heading_line1": "Landing Page",
+    "heading_line2": "Wireframe",
+    "heading_line3": "Website",
+    "subtext": "Lorem Ipsum es simplemente texto ficticio de la industria de la impresión y la composición tipográfica."
+  },
+  "buttons": {
+    "get_started": "Comenzar",
+    "portfolio": "Nuestro Portafolio",
+    "contact": "Contáctanos",
+    "start_project": "Start a Project →"
+  },
+  "ourWorks": {
+    "title": "Our Works",
+    "subtitle": "Numbers that speak for themselves"
+  },
+  "services": {
+    "what_we_do": "What we do",
+    "heading": "Services we're offering to our consumers",
+    "webdev": "Web Development",
+    "uidesign": "UI/UX Design",
+    "marketing": "Digital Marketing"
+  },
+  "about": {
+    "who_we_are": "Who we are",
+    "about_title": "About Aurum",
+    "mission_title": "Our Mission",
+    "mission_text_1": "Construimos productos digitales que importan",
+    "mission_text_2": "Nuestro equipo imaginario se dedica a crear soluciones web innovadoras que superan las expectativas de nuestros clientes."
+  },
+  "footer": {
+    "copyright": "© {{year}} Aurum Dev Agency"
+  }
+}
